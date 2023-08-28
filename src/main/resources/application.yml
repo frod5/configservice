@@ -8,5 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/sunwookim/Desktop/frod/git-local-repo
+#          uri: file:///Users/sunwookim/Desktop/frod/git-local-repo
+          uri: https://github.com/frod5/springcloudconfig
+
 
